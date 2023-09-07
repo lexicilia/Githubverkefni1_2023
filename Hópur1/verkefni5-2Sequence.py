@@ -15,9 +15,9 @@ for i in range (n):
         print(c)
 
     else:
-        next_num = a + b +c 
-        print (next_num)
-        a, b, c = b, c, next_num
+        númer = a + b +c 
+        print (númer)
+        a, b, c = b, c, númer
     
 
 
